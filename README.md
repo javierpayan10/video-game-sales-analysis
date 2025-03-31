@@ -32,3 +32,6 @@ Porfirio Javier Payán Ferreira
 📧 porfirio_payan@hotmail.com  
 [🔗 LinkedIn](https://www.linkedin.com/in/analista-javier-payan/)  
 [📁 GitHub](https://github.com/javierpayan10)
+## 🖼 Ejemplo de visualización
+
+![Gráfico de ventas por plataforma](ventas_globales.png)
