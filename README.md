@@ -26,6 +26,13 @@ Este proyecto analiza los datos de ventas de videojuegos a nivel mundial para id
 - Las calificaciones de usuarios tienen una correlación muy baja con las ventas (-0.03), mientras que las de críticos muestran una relación moderada (0.41).
 - La clasificación ESRB "E" tiene buena recepción global, pero las categorías "Mature" impactan más en NA y EU.
 
+## 📊 Visualización interactiva en Tableau
+
+👉 Haz clic aquí para ver el dashboard:  
+[🔗 Ver Dashboard en Tableau Public](https://public.tableau.com/views/tu-enlace-aqui)
+
+Este dashboard presenta la evolución de ventas globales, géneros más populares y un análisis de los juegos más exitosos del mercado.
+
 ## 👨‍💻 Autor
 
 Porfirio Javier Payán Ferreira  
