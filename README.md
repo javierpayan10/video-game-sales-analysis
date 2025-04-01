@@ -29,7 +29,7 @@ Este proyecto analiza los datos de ventas de videojuegos a nivel mundial para id
 ## 📊 Visualización interactiva en Tableau
 
 👉 Haz clic aquí para ver el dashboard:  
-[🔗 Ver Dashboard en Tableau Public](https://public.tableau.com/views/tu-enlace-aqui)
+[🔗 Ver Dashboard en Tableau Public][(https://public.tableau.com/app/profile/porfirio.payan.ferreira/viz/Video_games_dashboard/DashboardVideojuegos)
 
 Este dashboard presenta la evolución de ventas globales, géneros más populares y un análisis de los juegos más exitosos del mercado.
 
